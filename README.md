@@ -34,3 +34,17 @@
 * 제어 주체
  
 
+### [ 병렬 처리 프레임워크의 종류와 특징 ]
+* Hadoop
+* Spark
+
+### [ 동기와 비동기의 차이 ]
+
+### [ SQL Injection ]
+
+### [ 메세지 큐(Message Queue)란? ]
+
+### [ Docker(도커)와 Kubernates(쿠버네티스) ]
+* 하드웨어 가상화와의 차이
+
+### [ TDD(Test-Driven Development) , DDD(Domain-Driven Design) , MSA(Microservice Architecture)]
