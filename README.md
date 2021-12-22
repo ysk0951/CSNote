@@ -1,4 +1,6 @@
-## [Cumputer Science Study Summery]
+# [Cumputer Science Study Summery]
+
+## 공통
 
 ### [OOP 설계원칙]
 * SRP
@@ -48,3 +50,23 @@
 * 하드웨어 가상화와의 차이
 
 ### [ TDD(Test-Driven Development) , DDD(Domain-Driven Design) , MSA(Microservice Architecture)]
+
+## [ 자료구조와 알고리즘 ]
+
+### [ 스택, 큐, 트리, 힙 구조 설명 ]
+* 스택
+* 큐
+* 트리
+* 힙
+
+### [ 이진 탐색 ]
+* 시간복잡도
+
+### [ AVL 트리 ]
+* Rotation에 관해서
+* 시간복잡도
+
+### [ 레드블랙 트리 ]
+* 조건
+* B - Restructuring , R - Recoloring
+* 시간복잡도
