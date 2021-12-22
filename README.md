@@ -101,6 +101,6 @@
 ### [ HTTP vs HTTPS ]
 * 보안관련 설명
 
-[ HTTP 1 vs HTTP 2 ]
+### [ HTTP 1 vs HTTP 2 ]
 * 데이터 교환관련 설명
 
