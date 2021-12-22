@@ -86,3 +86,21 @@
 
 ### [ 퀵 선택 ]
 
+### [ 3 way handshake  과 4 way handshake ]
+* 과정설명
+
+### [TCP vs UDP 차이점]
+
+### [ GET과 POST 차이 ]
+
+### [ 공인 IP와 사설 IP 차이 ]
+
+### [ OSI 7계층 ]
+* 계층별 설명
+
+### [ HTTP vs HTTPS ]
+* 보안관련 설명
+
+[ HTTP 1 vs HTTP 2 ]
+* 데이터 교환관련 설명
+
