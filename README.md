@@ -104,3 +104,62 @@
 ### [ HTTP 1 vs HTTP 2 ]
 * 데이터 교환관련 설명
 
+### [ Byte Ordering이란 ]
+* Big Endian
+* Little Endian
+
+### [ 프로세스와 쓰레드의 차이 ]
+
+### [ 컨텍스트 스위칭(Context Switching)이란? ]
+
+### [ 멀티 프로세스 VS 멀티 쓰레드 ]
+* 자원공유관점
+
+### [ 데드락(DeadLock) 이란? ]
+
+### [ 멀티 쓰레드 프로그래밍 작성 시 유의점 ]
+* 상호배제 교착상태
+
+### [ 세마포어(Semaphore) vs 뮤텍스(Mutex) 차이 ]
+
+### [ CPU의 메모리 I/O 도중 생기는 병목 현상 해결 방법 ]
+
+### [ 가상메모리와 페이지폴트 ]
+
+### [ 페이지 교체 알고리즘과 LRU(Least Recently Used) ]
+
+
+### [ 인덱스(index)란? ]
+
+### [ 인덱스의 자료구조 ]
+* 해시 테이블
+* B+Tree
+
+### [ DB 정규화 ]
+* 제1정규형
+* 제2정규형
+* 제3정규형
+* BCNF 정규형
+
+### [ 트랜잭션(Transaction)이란? ACID]
+* Atomicity
+* Consistency
+* Isolation
+* Durability
+
+### [ 이상 현상의 종류 ]
+* 삭제이상
+* 삽입이상
+* 수정이상
+
+### [ DB 락의 종류 ]
+* 공유락(LS, Shared Lock)
+* 베타락(LX, Exclusive Lock)
+
+### [ RDBMS와 NoSQL 차이 ]
+
+### [ 힌트(Hint)란? ]
+
+### [ 클러스터링 vs 리플리케이션 ]
+
+### [ 데이터베이스 튜닝과 방법 ]
